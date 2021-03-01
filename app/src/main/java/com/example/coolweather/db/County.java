@@ -4,7 +4,18 @@ import org.litepal.crud.DataSupport;
 
 /**
  * Describe: County class
- * <p>
+ *     [
+ *       {
+ *         "id":1967,
+ *         "name":"成都",
+ *         "weather_id":"CN101270101"
+ *       },
+ *       {
+ *         "id":1968,
+ *         "name":"龙泉驿",
+ *         "weather_id":"CN101270102"
+ *       }
+ *     ]
  * Created by Ervin Liu on 2021/02/27---10:08
  **/
 public class County extends DataSupport {

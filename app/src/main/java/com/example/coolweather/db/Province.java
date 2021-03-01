@@ -4,7 +4,16 @@ import org.litepal.crud.DataSupport;
 
 /**
  * Describe: province class
- * <p>
+ *       [
+ *          {
+ *           "id":1,
+ *           "name":"北京"
+ *          },
+ *          {
+ *           "id":2,
+ *           "name":"上海"
+ *          }
+ *        ]
  * Created by Ervin Liu on 2021/02/27---10:03
  **/
 public class Province extends DataSupport {

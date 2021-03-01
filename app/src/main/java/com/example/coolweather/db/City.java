@@ -4,7 +4,16 @@ import org.litepal.crud.DataSupport;
 
 /**
  * Describe: City class
- * <p>
+ *       [
+ *         {
+ *           "id":267,
+ *           "name":"成都"
+ *         },
+ *         {
+ *           "id":268,
+ *           "name":"攀枝花"
+ *         }
+ *       ]
  * Created by Ervin Liu on 2021/02/27---10:05
  **/
 public class City extends DataSupport {
